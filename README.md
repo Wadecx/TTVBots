@@ -1,6 +1,6 @@
-# BotChannelProxy
+# TTVBots
 
-**BotChannelProxy** is a program designed to bring bots to a specific channel by routing their connections through proxies. This helps to avoid detection and ensures that bot activity appears natural.
+**TTVBots** is a program designed to bring bots to a specific channel by routing their connections through proxies. This helps to avoid detection and ensures that bot activity appears natural.
 
 ## 🚀 Features
 
